@@ -87,6 +87,3 @@ Users can manually catalog their personal recipes, search for thousands of new d
 - [ ] Categorization/Tags for local recipes
 - [ ] Widget support
 
----
-
-Made with ❤️ by Sriram Reddy
